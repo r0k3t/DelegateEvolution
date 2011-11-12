@@ -1,0 +1,9 @@
+This is a simple example created to show the evolution of a delegate from C#
+1 / 1.1 right up to the modern lambda expression. 
+
+It's probably worth noting that if you aren't familiar with lambda expressions in 
+C# you aren't familiar with modern C# (i.e. >= 3). It will also make mocking a rather
+difficult and miserable proposition.
+
+Console.WriteLine("Clank! The coin was rejected");
+
