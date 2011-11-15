@@ -1,0 +1,5 @@
+C:\Users\kenn\Documents\Visual Studio 2010\Projects\DelegateEvolution\DelegateEvolution\bin\Debug\DelegateEvolution.exe
+C:\Users\kenn\Documents\Visual Studio 2010\Projects\DelegateEvolution\DelegateEvolution\bin\Debug\DelegateEvolution.pdb
+C:\Users\kenn\Documents\Visual Studio 2010\Projects\DelegateEvolution\DelegateEvolution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kenn\Documents\Visual Studio 2010\Projects\DelegateEvolution\DelegateEvolution\obj\x86\Debug\DelegateEvolution.exe
+C:\Users\kenn\Documents\Visual Studio 2010\Projects\DelegateEvolution\DelegateEvolution\obj\x86\Debug\DelegateEvolution.pdb
